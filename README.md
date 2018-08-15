@@ -4,5 +4,3 @@
 [在线滑稽](https://vf2e.github.io/css-funny/emoji.html)
 
 ![emoji](https://vf2e.github.io/emoji.png)
-
-![emoji](https://vf2e.github.io/emoji.png)
